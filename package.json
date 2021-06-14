@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Samayama554/typescript_practice#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
